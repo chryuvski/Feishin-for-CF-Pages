@@ -1,2 +1,0 @@
-import{g as i,f as u,q as a,h as y}from"./index-qz_z9GmZ.js";const p=s=>{const{options:t,query:r,serverId:n}=s||{},e=i(n);return u({enabled:!!e,queryFn:({signal:o})=>{if(!e)throw new Error("Server not found");return y.controller.getGenreList({apiClientProps:{server:e,signal:o},query:r})},queryKey:a.genres.list((e==null?void 0:e.id)||"",r),staleTime:1e3*5,...t})};export{p as u};
-//# sourceMappingURL=genre-list-query-DUF8G_30.js.map
