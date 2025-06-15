@@ -1,0 +1,2 @@
+import{by as l,bz as F,r as p}from"./index-qz_z9GmZ.js";const h=({gridRef:i,server:t})=>{const n=l({}),c=F({});return p.useCallback(async y=>{var d;const{id:a,isFavorite:u,itemType:s}=y;try{u?await c.mutateAsync({query:{id:a,type:s},serverId:t==null?void 0:t.id}):await n.mutateAsync({query:{id:a,type:s},serverId:t==null?void 0:t.id});const o=new Set(a);(d=i.current)==null||d.updateItemData(e=>o.has(e.id)?{...e,userFavorite:!u}:e)}catch(o){console.error(o)}},[n,c,i,t==null?void 0:t.id])};export{h as u};
+//# sourceMappingURL=use-handle-favorite-DgTaOWZK.js.map
