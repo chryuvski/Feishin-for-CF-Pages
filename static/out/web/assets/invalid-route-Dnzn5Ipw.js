@@ -1,0 +1,2 @@
+import{aP as t,bh as i,j as s,A as o,bb as r,s as c,t as l,bi as x,T as a,M as d}from"./index-qz_z9GmZ.js";const u=()=>{const e=t(),n=i();return s.jsx(o,{children:s.jsx(r,{sx:{height:"100%",width:"100%"},children:s.jsxs(c,{children:[s.jsxs(l,{noWrap:!0,position:"center",children:[s.jsx(x,{color:"var(--warning-color)",size:30}),s.jsx(a,{size:"xl",children:"Page not found"})]}),s.jsx(a,{children:n.pathname}),s.jsx(d,{onClick:()=>e(-1),variant:"filled",children:"Go back"})]})})})};export{u as default};
+//# sourceMappingURL=invalid-route-Dnzn5Ipw.js.map
