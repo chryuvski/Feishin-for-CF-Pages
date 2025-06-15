@@ -1,0 +1,2 @@
+import{j as e,P as s,L as a,r as n,A as o,V as t,a as l,b as i,c as u}from"./index-qz_z9GmZ.js";const d=()=>e.jsx(s,{backgroundColor:"var(--titlebar-bg)",children:e.jsx(a,{children:e.jsx(a.Title,{children:"Queue"})})}),c=()=>{const r=n.useRef(null);return e.jsx(o,{children:e.jsxs(t,{children:[e.jsx(d,{}),e.jsx(l,{sx:{borderTop:"1px solid var(--generic-border-color)"},children:e.jsx(i,{tableRef:r,type:"nowPlaying"})}),e.jsx(u,{ref:r,type:"nowPlaying"})]})})};export{c as default};
+//# sourceMappingURL=now-playing-route-V3cZUNCD.js.map

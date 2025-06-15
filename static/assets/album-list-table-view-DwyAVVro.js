@@ -1,0 +1,2 @@
+import{z as u,u as l,n as m,bX as c,j as s,aH as b,aI as p}from"./index-qz_z9GmZ.js";import{u as x}from"./use-virtual-table-BjhVw3T4.js";const M=({itemCount:a,tableRef:e})=>{const t=u(),{customFilters:i,id:o,pageKey:n}=l(),r=x({contextMenu:c,customFilters:i,isSearchParams:!!o,itemCount:a,itemType:m.ALBUM,pageKey:n,server:t,tableRef:e});return s.jsx(b,{children:s.jsx(p,{ref:e,...r},`table-${r.rowHeight}-${t==null?void 0:t.id}`)})};export{M as AlbumListTableView};
+//# sourceMappingURL=album-list-table-view-DwyAVVro.js.map

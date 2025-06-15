@@ -1,0 +1,2 @@
+import{z as o,u as n,n as u,j as s,aH as T,aI as l,bA as m}from"./index-qz_z9GmZ.js";import{u as p}from"./use-virtual-table-BjhVw3T4.js";const c=({itemCount:a,tableRef:e})=>{const t=o(),{pageKey:i}=n(),r=p({contextMenu:m,itemCount:a,itemType:u.ARTIST,pageKey:i,server:t,tableRef:e});return s.jsx(T,{children:s.jsx(l,{ref:e,...r},`table-${r.rowHeight}-${t==null?void 0:t.id}`)})};export{c as ArtistListTableView};
+//# sourceMappingURL=artist-list-table-view-BDGv9-sF.js.map
