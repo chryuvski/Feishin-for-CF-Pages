@@ -1,0 +1,2 @@
+import{u as n,j as o,N as r,r as a,H as c}from"./index-Bg7vtszj.js";const i=({onClick:e,...t})=>{const{t:s}=n();return o.jsx(r,{icon:"refresh",iconProps:{size:"lg",...t.iconProps},onClick:e,tooltip:{label:s("common.refresh",{postProcess:"sentenceCase"}),...t.tooltip},variant:"subtle",...t})},u=({disabled:e,listKey:t})=>{const s=a.useCallback(()=>{c.emit("ITEM_LIST_REFRESH",{key:t})},[t]);return o.jsx(i,{disabled:e,onClick:s})};export{u as L};
+//# sourceMappingURL=list-refresh-button-DgSaCIoZ.js.map

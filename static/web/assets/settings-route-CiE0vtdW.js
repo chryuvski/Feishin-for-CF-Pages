@@ -1,0 +1,2 @@
+import{r,j as e,cO as a,b4 as n,F as i,cP as o,cQ as c}from"./index-Bg7vtszj.js";import{A as x}from"./animated-page-CK4Vh2Bv.js";const j=()=>{const[t,s]=r.useState("");return e.jsx(x,{children:e.jsx(a.Provider,{value:t,children:e.jsx(n,{children:e.jsxs(i,{direction:"column",h:"100%",w:"100%",children:[e.jsx(o,{setSearch:s}),e.jsx(c,{})]})})})})};export{j as default};
+//# sourceMappingURL=settings-route-CiE0vtdW.js.map

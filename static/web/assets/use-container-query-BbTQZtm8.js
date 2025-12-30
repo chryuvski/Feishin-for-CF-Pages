@@ -1,0 +1,2 @@
+import{u as y}from"./use-element-size-ujK0hvkf.js";const L=x=>{const{"2xl":t,"3xl":l,"4xl":n,"5xl":o,lg:i,md:c,sm:e,xl:r,xs:u}=x||{},{height:a,ref:m,width:s}=y(),d=s>=(u||360),g=s>=(e||480),h=s>=(c||600),C=s>=(i||768),f=s>=(r||960),p=s>=(t||1152),S=s>=(l||1280),X=s>=(n||1440),w=s>=(o||1600);return{height:a,is2xl:p,is3xl:S,is4xl:X,is5xl:w,isCalculated:s!==0,isLg:C,isMd:h,isSm:g,isXl:f,isXs:d,ref:m,width:s}};export{L as u};
+//# sourceMappingURL=use-container-query-BbTQZtm8.js.map

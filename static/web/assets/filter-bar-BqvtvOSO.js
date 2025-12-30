@@ -1,0 +1,2 @@
+import{p as m,r as S,q as s,cC as l,j as u}from"./index-Bg7vtszj.js";import{f as h,s as i}from"./use-sort-order-filter-BcBQhcQf.js";const f=r=>{const[e,t]=m(),c=S.useMemo(()=>h(e,s.SHARED.SEARCH_TERM)??r??void 0,[e,r]),n=l(a=>{t(o=>i(o,s.SHARED.SEARCH_TERM,a===""?null:a),{replace:!0})},300);return{searchTerm:c||void 0,setSearchTerm:n}},E="_filter-bar_1azdu_1",T={filterBar:E},_=({children:r,...e})=>u.jsx("div",{className:T.filterBar,...e,children:r});export{_ as F,f as u};
+//# sourceMappingURL=filter-bar-BqvtvOSO.js.map
